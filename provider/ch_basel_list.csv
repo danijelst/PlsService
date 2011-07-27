@@ -1,0 +1,16 @@
+key;name;coordinates;capacity;free;open_closed;;
+badbahnhof;Bad. Beahnhof;47.565295,7.608768;N/A;0;N/A;Schwarzwaldstrasse 160;4058 Basel
+messe;Messe;47.565619,7.597801;N/A;0;N/A;Riehenstrasse 101;4058 Basel
+europe;Europe;47.562999,7.596753;N/A;0;N/A;Hammerstrasse 68;4058 Basel
+rebgasse;Rebgasse;47.560533,7.594361;250;0;N/A;Rebgasse 20;4058 Basel
+claramatte;Claramatte;47.563911,7.594441;N/A;0;N/A;Klingentalstrasse 25;4057 Basel
+elisabethen;Elisabethen;47.550441,7.587315;840;0;N/A;Steinentorberg 5;4051 Basel
+steinen;Steinen;47.55245,7.585901;520;0;N/A;Steinenschanze 5;4051 Basel
+city-kbs;City-KBS;47.562607,7.581595;1010;0;N/A;Schanzenstrasse 48;4056 Basel
+storchen;Storchen;47.559161,7.5866;130;0;N/A;Fischmarkt 10;4051 Basel
+postbasel;Postparking Basel 2;47.546931,7.5922;72;0;N/A;Gartenstrasse 143;4052 Basel
+centralbahnparking;Centralbahnparking;47.547238,7.592285;286;0;N/A;Gartenstrasse 150;4052 Basel
+hilton;Hilton-Parking;47.549357,7.592393;60;0;N/A;Aeschengraben 31;4051 Basel
+aeschen;Aeschen-Parking ;47.550284,7.593933;97;0;N/A;Aeschengraben 9;4051 Basel
+anfos;Anfos;47.551931,7.592491;166;0;N/A;Henric Petri-Strasse 21;4051 Basel
+bahnhofsued;Bahnhof Süd;47.546089,7.587463;100;0;N/A;Güterstrasse 115;4053 Basel

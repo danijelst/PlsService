@@ -1,0 +1,13 @@
+key;name;coordinates;capacity;free;open_closed;;
+Altstadt;Parkhaus Altstadt;47.051928,8.298919;462;267;N/A;Baselstrasse 4;6003 Luzern
+am Gütsch;Parkhaus und Gewerbecenter am Gütsch;47.053271,8.292557;462;267;N/A;Baselstrasse 61;6003 Luzern
+Bahnhofparking P1+P2;Bahnhofparking P1+P2;47.050676,8.311237;467;137;N/A;Robert-Zünd-Strasse;6003 Luzern
+Bahnhofparking P3;Bahnhofparking P3;47.048612,8.311642;500;238;N/A;Frohburgstrasse 3;6005 Luzern
+Hirzenmatt;Hirzenmatt;47.04711,8.306639;53;0;N/A;Winkelriedstrasse 36;6003 Luzern
+Kantonalbank;Kantonalbank;47.049464,8.305797;254;1;N/A;Pilatusstrasse 12;6003 Luzern
+Kesselturm;Kesselturm;47.049779,8.302399;340;18;N/A;Burgerstrasse 20;6003 Luzern
+Casino-Palace;Casino-Palace;47.055067,8.317932;230;145;N/A;Haldenstrasse 6;6006 Luzern
+City-Parking;City-Parking;47.057844,8.309703;400;213;N/A;Zürichstrasse 35;6004 Luzern
+Löwencenter;Löwencenter;47.057171,8.310037;462;267;N/A;Zürichstrasse 11;6004 Luzern
+Schweizerhof;Schweizerhof;47.054143,8.309596;229;9;N/A;Schweizerhofquai 2;6004 Luzern
+Nationalhof;Nationalhof;47.055149,8.315701;248;0;N/A;Haldenstrasse 23;6006 Luzern
