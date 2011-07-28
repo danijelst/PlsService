@@ -5,3 +5,4 @@
 - combine provider data into a moderatable file (one or two)
 - index.php should have better named parameters
 - change index.php to act as rpc instead of getting data by POST method
+- move the cvs data to google docs and change access
